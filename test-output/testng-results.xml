@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="8" passed="8" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Edge Launch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully done to account]]>
+    </line>
+    <line>
+      <![CDATA[successful done step 3]]>
+    </line>
+    <line>
+      <![CDATA[signin new user]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Cliking continue]]>
+    </line>
+    <line>
+      <![CDATA[Successful signin1]]>
+    </line>
+    <line>
+      <![CDATA[Successful signin1]]>
+    </line>
+    <line>
+      <![CDATA[Successful signin1]]>
+    </line>
+    <line>
+      <![CDATA[Successfully close]]>
+    </line>
+    <line>
+      <![CDATA[Edge Launch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully done to account]]>
+    </line>
+    <line>
+      <![CDATA[successful done step 3]]>
+    </line>
+    <line>
+      <![CDATA[Successful signin1]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Cliking continue]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Successful login in]]>
+    </line>
+    <line>
+      <![CDATA[Successfully close]]>
+    </line>
+    <line>
+      <![CDATA[Edge Launch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully done to account]]>
+    </line>
+    <line>
+      <![CDATA[successful done step 3]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Cliking continue]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Successful login in]]>
+    </line>
+    <line>
+      <![CDATA[click on editing]]>
+    </line>
+    <line>
+      <![CDATA[Successfully editing]]>
+    </line>
+    <line>
+      <![CDATA[save changes]]>
+    </line>
+    <line>
+      <![CDATA[Successfully close]]>
+    </line>
+    <line>
+      <![CDATA[Edge Launch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully done to account]]>
+    </line>
+    <line>
+      <![CDATA[successful done step 3]]>
+    </line>
+    <line>
+      <![CDATA[Successful signin1]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Cliking continue]]>
+    </line>
+    <line>
+      <![CDATA[Entering password]]>
+    </line>
+    <line>
+      <![CDATA[Successful login in]]>
+    </line>
+    <line>
+      <![CDATA[Successfully close]]>
+    </line>
+    <line>
+      <![CDATA[Edge Launch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully done to account]]>
+    </line>
+    <line>
+      <![CDATA[successful done step 3]]>
+    </line>
+    <line>
+      <![CDATA[Successful signin1]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Cliking continue]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Successful login in]]>
+    </line>
+    <line>
+      <![CDATA[Successfully close]]>
+    </line>
+    <line>
+      <![CDATA[Edge Launch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully done to account]]>
+    </line>
+    <line>
+      <![CDATA[successful done step 3]]>
+    </line>
+    <line>
+      <![CDATA[Successful signin1]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Cliking continue]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Successful login in]]>
+    </line>
+    <line>
+      <![CDATA[Successfully close]]>
+    </line>
+    <line>
+      <![CDATA[Edge Launch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully done to account]]>
+    </line>
+    <line>
+      <![CDATA[successful done step 3]]>
+    </line>
+    <line>
+      <![CDATA[Successful signin1]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Cliking continue]]>
+    </line>
+    <line>
+      <![CDATA[Enter the username]]>
+    </line>
+    <line>
+      <![CDATA[Successful login in]]>
+    </line>
+    <line>
+      <![CDATA[Successfully close]]>
+    </line>
+    <line>
+      <![CDATA[Edge Launch Successfully]]>
+    </line>
+    <line>
+      <![CDATA[Successfully done to account]]>
+    </line>
+    <line>
+      <![CDATA[Successfully close]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-06-25T15:29:05 IST" name="Suite" finished-at="2025-06-25T15:32:27 IST" duration-ms="201283">
+    <groups>
+    </groups>
+    <test started-at="2025-06-25T15:29:05 IST" name="Test" finished-at="2025-06-25T15:32:27 IST" duration-ms="201283">
+      <class name="Amazon_pacakge.Amazon_project.Test_15_addtocartwithoutlogin">
+        <test-method is-config="true" signature="login_in(java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_15_addtocartwithoutlogin@2892dae4]" started-at="2025-06-25T15:32:02 IST" name="login_in" finished-at="2025-06-25T15:32:17 IST" duration-ms="15280" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Edge Launch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Successfully done to account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_in -->
+        <test-method signature="addtocartnologin()[pri:0, instance:Amazon_pacakge.Amazon_project.Test_15_addtocartwithoutlogin@2892dae4]" started-at="2025-06-25T15:32:17 IST" name="addtocartnologin" finished-at="2025-06-25T15:32:26 IST" duration-ms="9076" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addtocartnologin -->
+        <test-method is-config="true" signature="log_out()[pri:0, instance:Amazon_pacakge.Amazon_project.Test_15_addtocartwithoutlogin@2892dae4]" started-at="2025-06-25T15:32:26 IST" name="log_out" finished-at="2025-06-25T15:32:27 IST" duration-ms="212" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log_out -->
+      </class> <!-- Amazon_pacakge.Amazon_project.Test_15_addtocartwithoutlogin -->
+      <class name="Amazon_pacakge.Amazon_project.Test_2_Loginwithvaliddetails">
+        <test-method is-config="true" signature="login_in(java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_2_Loginwithvaliddetails@e1de817]" started-at="2025-06-25T15:29:26 IST" name="login_in" finished-at="2025-06-25T15:29:35 IST" duration-ms="8716" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Edge Launch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Successfully done to account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_in -->
+        <test-method signature="sucsessfulloginwithrightdetails(java.lang.String,java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_2_Loginwithvaliddetails@e1de817]" started-at="2025-06-25T15:29:35 IST" name="sucsessfulloginwithrightdetails" data-provider="data" finished-at="2025-06-25T15:29:41 IST" duration-ms="5614" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7066328484]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kalyani@90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[successful done step 3]]>
+            </line>
+            <line>
+              <![CDATA[Successful signin1]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Cliking continue]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Successful login in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- sucsessfulloginwithrightdetails -->
+        <test-method is-config="true" signature="log_out()[pri:0, instance:Amazon_pacakge.Amazon_project.Test_2_Loginwithvaliddetails@e1de817]" started-at="2025-06-25T15:29:41 IST" name="log_out" finished-at="2025-06-25T15:29:41 IST" duration-ms="246" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log_out -->
+      </class> <!-- Amazon_pacakge.Amazon_project.Test_2_Loginwithvaliddetails -->
+      <class name="Amazon_pacakge.Amazon_project.Test_11_addpayment">
+        <test-method is-config="true" signature="login_in(java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_11_addpayment@13b13b5d]" started-at="2025-06-25T15:31:31 IST" name="login_in" finished-at="2025-06-25T15:31:41 IST" duration-ms="9483" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Edge Launch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Successfully done to account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_in -->
+        <test-method signature="addpayment(java.lang.String,java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_11_addpayment@13b13b5d]" started-at="2025-06-25T15:31:41 IST" name="addpayment" data-provider="data" finished-at="2025-06-25T15:32:02 IST" duration-ms="20877" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7066328484]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kalyani@90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[successful done step 3]]>
+            </line>
+            <line>
+              <![CDATA[Successful signin1]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Cliking continue]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Successful login in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addpayment -->
+        <test-method is-config="true" signature="log_out()[pri:0, instance:Amazon_pacakge.Amazon_project.Test_11_addpayment@13b13b5d]" started-at="2025-06-25T15:32:02 IST" name="log_out" finished-at="2025-06-25T15:32:02 IST" duration-ms="228" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log_out -->
+      </class> <!-- Amazon_pacakge.Amazon_project.Test_11_addpayment -->
+      <class name="Amazon_pacakge.Amazon_project.Test_5_Execution_searchingproduct">
+        <test-method is-config="true" signature="login_in(java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_5_Execution_searchingproduct@3541cb24]" started-at="2025-06-25T15:30:05 IST" name="login_in" finished-at="2025-06-25T15:30:15 IST" duration-ms="9682" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Edge Launch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Successfully done to account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_in -->
+        <test-method signature="addtocart()[pri:0, instance:Amazon_pacakge.Amazon_project.Test_5_Execution_searchingproduct@3541cb24]" started-at="2025-06-25T15:30:15 IST" name="addtocart" finished-at="2025-06-25T15:30:26 IST" duration-ms="11361" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[successful done step 3]]>
+            </line>
+            <line>
+              <![CDATA[Successful signin1]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Cliking continue]]>
+            </line>
+            <line>
+              <![CDATA[Entering password]]>
+            </line>
+            <line>
+              <![CDATA[Successful login in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method is-config="true" signature="log_out()[pri:0, instance:Amazon_pacakge.Amazon_project.Test_5_Execution_searchingproduct@3541cb24]" started-at="2025-06-25T15:30:27 IST" name="log_out" finished-at="2025-06-25T15:30:27 IST" duration-ms="218" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log_out -->
+      </class> <!-- Amazon_pacakge.Amazon_project.Test_5_Execution_searchingproduct -->
+      <class name="Amazon_pacakge.Amazon_project.Test_4_Execution_Editprofile">
+        <test-method is-config="true" signature="login_in(java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_4_Execution_Editprofile@52102734]" started-at="2025-06-25T15:29:42 IST" name="login_in" finished-at="2025-06-25T15:29:52 IST" duration-ms="10021" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Edge Launch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Successfully done to account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_in -->
+        <test-method signature="editprofile(java.lang.String,java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_4_Execution_Editprofile@52102734]" started-at="2025-06-25T15:29:52 IST" name="editprofile" data-provider="data" finished-at="2025-06-25T15:30:05 IST" duration-ms="13195" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7066328484]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kalyani@90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[successful done step 3]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Cliking continue]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Successful login in]]>
+            </line>
+            <line>
+              <![CDATA[click on editing]]>
+            </line>
+            <line>
+              <![CDATA[Successfully editing]]>
+            </line>
+            <line>
+              <![CDATA[save changes]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- editprofile -->
+        <test-method is-config="true" signature="log_out()[pri:0, instance:Amazon_pacakge.Amazon_project.Test_4_Execution_Editprofile@52102734]" started-at="2025-06-25T15:30:05 IST" name="log_out" finished-at="2025-06-25T15:30:05 IST" duration-ms="148" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log_out -->
+      </class> <!-- Amazon_pacakge.Amazon_project.Test_4_Execution_Editprofile -->
+      <class name="Amazon_pacakge.Amazon_project.Test_10_Updatequantity">
+        <test-method is-config="true" signature="login_in(java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_10_Updatequantity@40cb8df7]" started-at="2025-06-25T15:31:00 IST" name="login_in" finished-at="2025-06-25T15:31:11 IST" duration-ms="11040" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Edge Launch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Successfully done to account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_in -->
+        <test-method signature="addtocart(java.lang.String,java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_10_Updatequantity@40cb8df7]" started-at="2025-06-25T15:31:11 IST" name="addtocart" data-provider="data" finished-at="2025-06-25T15:31:31 IST" duration-ms="19596" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7066328484]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kalyani@90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[successful done step 3]]>
+            </line>
+            <line>
+              <![CDATA[Successful signin1]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Cliking continue]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Successful login in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method is-config="true" signature="log_out()[pri:0, instance:Amazon_pacakge.Amazon_project.Test_10_Updatequantity@40cb8df7]" started-at="2025-06-25T15:31:31 IST" name="log_out" finished-at="2025-06-25T15:31:31 IST" duration-ms="289" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log_out -->
+      </class> <!-- Amazon_pacakge.Amazon_project.Test_10_Updatequantity -->
+      <class name="Amazon_pacakge.Amazon_project.Test_1_Createnewuser">
+        <test-method is-config="true" signature="login_in(java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Test_1_Createnewuser@5ab9e72c]" started-at="2025-06-25T15:29:05 IST" name="login_in" finished-at="2025-06-25T15:29:15 IST" duration-ms="9241" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Edge Launch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Successfully done to account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_in -->
+        <test-method signature="loginsuccesful()[pri:0, instance:Amazon_pacakge.Amazon_project.Test_1_Createnewuser@5ab9e72c]" started-at="2025-06-25T15:29:15 IST" name="loginsuccesful" finished-at="2025-06-25T15:29:25 IST" duration-ms="10242" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[successful done step 3]]>
+            </line>
+            <line>
+              <![CDATA[signin new user]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Cliking continue]]>
+            </line>
+            <line>
+              <![CDATA[Successful signin1]]>
+            </line>
+            <line>
+              <![CDATA[Successful signin1]]>
+            </line>
+            <line>
+              <![CDATA[Successful signin1]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- loginsuccesful -->
+        <test-method is-config="true" signature="log_out()[pri:0, instance:Amazon_pacakge.Amazon_project.Test_1_Createnewuser@5ab9e72c]" started-at="2025-06-25T15:29:25 IST" name="log_out" finished-at="2025-06-25T15:29:25 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log_out -->
+      </class> <!-- Amazon_pacakge.Amazon_project.Test_1_Createnewuser -->
+      <class name="Amazon_pacakge.Amazon_project.Tase_9_Addtocart">
+        <test-method is-config="true" signature="login_in(java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Tase_9_Addtocart@2177849e]" started-at="2025-06-25T15:30:27 IST" name="login_in" finished-at="2025-06-25T15:30:41 IST" duration-ms="14424" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Edge]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Edge Launch Successfully]]>
+            </line>
+            <line>
+              <![CDATA[Successfully done to account]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- login_in -->
+        <test-method signature="addtocart(java.lang.String,java.lang.String)[pri:0, instance:Amazon_pacakge.Amazon_project.Tase_9_Addtocart@2177849e]" started-at="2025-06-25T15:30:41 IST" name="addtocart" data-provider="data" finished-at="2025-06-25T15:30:59 IST" duration-ms="17981" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[7066328484]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kalyani@90]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[successful done step 3]]>
+            </line>
+            <line>
+              <![CDATA[Successful signin1]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Cliking continue]]>
+            </line>
+            <line>
+              <![CDATA[Enter the username]]>
+            </line>
+            <line>
+              <![CDATA[Successful login in]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- addtocart -->
+        <test-method is-config="true" signature="log_out()[pri:0, instance:Amazon_pacakge.Amazon_project.Tase_9_Addtocart@2177849e]" started-at="2025-06-25T15:31:00 IST" name="log_out" finished-at="2025-06-25T15:31:00 IST" duration-ms="282" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Successfully close]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- log_out -->
+      </class> <!-- Amazon_pacakge.Amazon_project.Tase_9_Addtocart -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
